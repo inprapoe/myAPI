@@ -1,4 +1,4 @@
-const data = [
+[
     {
         id: 1,
         name: 'Shoes Lorem ipsum dolor sit amet consectetur adipisicing elit. ', 
@@ -84,5 +84,3 @@ const data = [
         description: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quaerat, temporibus! Iure repudiandae, iusto cum facilis sunt sapiente odit nostrum atque nam consequatur unde sed quidem hic dolorum. Consequatur, enim quia'
     },
 ]
-
-export default data
